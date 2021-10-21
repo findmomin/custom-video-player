@@ -1,0 +1,15 @@
+{
+  "name": "custom-video-player",
+  "version": "1.0.0",
+  "description": "Custom video player using the HTML5 video element and it's JavaScript API with a custom design",
+  "main": "app.js",
+  "scripts": {
+    "start": "tsc --watch app.ts"
+  },
+  "keywords": [],
+  "author": "Abdul Momin",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
