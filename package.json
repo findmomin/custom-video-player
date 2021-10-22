@@ -4,7 +4,7 @@
   "description": "Custom video player using the HTML5 video element and it's JavaScript API with a custom design",
   "main": "app.js",
   "scripts": {
-    "start": "tsc --watch app.ts"
+    "start": "tsc -w"
   },
   "keywords": [],
   "author": "Abdul Momin",
